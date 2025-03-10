@@ -9,6 +9,7 @@
 - **HTML**, **CSS** 
 - **JavaScript**, **TypeScript**, **React**  
 - **Tailwind CSS**, **Shadcn**
+  
   Имею базовый опыт написания unit-тестов с использованием Jest и end-to-end тестов с использованием Cypress.
   Использовала Storybook для разработки и документирования UI-компонентов.
 
