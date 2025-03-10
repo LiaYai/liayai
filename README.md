@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Привет! Меня зовут Алиса.
 
-<!--
-**LiaYai/liayai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий фронтенд-разработчик. Закончила курсы по фронтенд-разработке и активно развиваюсь в этом направлении. Имею высшее образование (бакалавр математики).  
 
-Here are some ideas to get you started:
+#### 🛠️ Технологии, с которыми я работаю:
+- **HTML**, **CSS** 
+- **JavaScript**, **TypeScript**, **React**  
+- **Tailwind CSS**, **Shadcn**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Сейчас изучаю:
+- **Nextjs**
+- **Bootstrap**
+
+#### 🏞️ Мои увлечения:
+- Люблю гулять в горах с собакой и ходить в походы.  
+- Дома занимаюсь рукоделием: бисероплетение, шитьё, вязание.  
+
+#### 📫 Связь:
+- **Telegram**: [@liayalyssa](https://t.me/liayalyssa)
