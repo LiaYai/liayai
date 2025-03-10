@@ -7,7 +7,8 @@
 
 #### 🛠️ Технологии, с которыми я работаю:
 - **HTML**, **CSS** 
-- **JavaScript**, **TypeScript**, **React**  
+- **JavaScript**, **TypeScript**, **React**
+- **React Router**, **React Hook Form**  
 - **Tailwind CSS**, **Shadcn**
   
   Имею базовый опыт работы с Jest, Cypress и Storybook, готова развивать эти навыки в работе.
